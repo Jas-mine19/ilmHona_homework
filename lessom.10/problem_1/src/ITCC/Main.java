@@ -1,4 +1,4 @@
-package ITCC;
+    package ITCC;
 
 public class Main {
 

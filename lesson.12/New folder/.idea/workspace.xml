@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b298c76-2c5d-4284-b57e-ed1f1ed95890" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/problem_5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lessom.10/problem_1/src/ITCC/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lessom.10/problem_1/src/ITCC/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/out/production/problem_5/ITCC/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/problem_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson.8/problem_5/src/ITCC/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1k9U9YIO9dDRlI3osyKvzpf5yxH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ITCC.Main" />
+      <module name="New folder" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b298c76-2c5d-4284-b57e-ed1f1ed95890" name="Default Changelist" comment="" />
+      <created>1605112151619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605112151619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1605116457729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605116457729" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1605116457729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605116457729" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1605116457729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605116457729" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1605116457729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605116457729" />
+  </component>
+</project>
