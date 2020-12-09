@@ -3,16 +3,53 @@ package ITCC;
 public class Main {
 
     public static void main(String[] args) {
+        public class Cat {
 
-                int a=1;
-                int b=5;
-                double result=0;
-                while(a<=b){
-                    result= result+Math.pow(a,2);
-                    a++;
+            private String name;
+            private int age;
+            private int weight;
 
-                }
-                System.out.println(result);
+            public Cat(String name, int age, int weight) {
+                this.name = name;
+                this.age = age;
+                this.weight = weight;
+            }
+
+            public Cat() {
+            }
+
+            public void sayMeow() {
+                System.out.println("Мяу!");
+            }
+
+            public String getName() {
+                return name;
+            }
+
+            public void setName(String name) {
+                this.name = name;
+            }
+
+            public int getAge() {
+                return age;
+            }
+
+            public void setAge(int age) {
+                this.age = age;
+            }
+
+            public int getWeight() {
+                return weight;
+            }
+
+            public void setWeight(int weight) {
+                this.weight = weight;
             }
         }
+    }
+}
+
+
+
+
 

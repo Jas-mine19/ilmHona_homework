@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InformationActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <ImageView
+                    android:id="@+id/arrow_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/arrow_back_24"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="25dp"
+                    />
+
+
+                <ImageView
+                    android:id="@+id/create"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/create_24"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="50dp"
+                    />
+
+                <ImageView
+                    android:id="@+id/drag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/drag_indicator_24"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="20dp"
+                    />
+
+            </RelativeLayout>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="216dp"
+        android:layout_height="253dp"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="10dp"
+        android:src="@drawable/anna"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile_image"
+       android:layout_centerInParent="true"
+         android:layout_marginStart="250dp"
+        android:textSize="33dp"
+        android:text="Sister"
+        android:textColor="@color/black" />
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbarname"
+        android:layout_marginTop="36dp"
+        android:layout_below="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/_local_phone"
+             />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/sms_24"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="22dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(+992)93-11-222-11-11"
+                android:layout_centerInParent="true"
+                android:textSize="23dp"
+                />
+</RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbaremail"
+        android:layout_marginTop="36dp"
+        android:layout_below="@+id/appbarname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbaremail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/email"
+                android:layout_marginStart="12dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="24dp"
+                android:layout_centerInParent="true"
+                android:text="E-mail"
+                android:textSize="23dp"
+                android:layout_marginStart="200dp"
+
+                />
+
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+</RelativeLayout>
